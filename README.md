@@ -1,7 +1,7 @@
 # NestifyFinance
 
 ## Inspiration and Motivation
-images/purpose.png
+![Screenshot](images/purpose.png)
 
 Here's a step-by-step guide:
 
