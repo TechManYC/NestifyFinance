@@ -1,6 +1,7 @@
 # NestifyFinance
 
-# How to Use This Repository
+## Inspiration and Motivation
+images/purpose.png
 
 Here's a step-by-step guide:
 
