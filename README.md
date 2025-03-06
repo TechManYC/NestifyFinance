@@ -1,7 +1,7 @@
 # NestifyFinance
 
 Visit my website: http://103.6.169.213:8501/
-(There is no need to upload any data for this being unsecured webpage.)
+  Data is retrieved directly from online sources, ensuring no local data upload is required.
 
 ## Inspiration and Motivation
 ![Screenshot](images/Purpose.png)
